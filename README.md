@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Sou só um cara de humanas me arriscando a aprender programação.
-Completamente iniciante, fazendo os cursos iniciais da Alura (Introdução à Lógica de Programação, Introdução ao Git e GitHub...).
+Completamente iniciante, fazendo os cursos iniciais da Alura (Introdução à Lógica de Programação, Introdução ao Git e GitHub, Introdução a HTML e CSS...).
