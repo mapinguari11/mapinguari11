@@ -18,7 +18,7 @@ I'm just a human sciences guy who is challenging himself to learn programming.
 I'm a total beginner, taking courses at Alura (Introduction to Programming Logic, Introduction to Git and GitHub, Introduction to HTML and CSS, Introduction to C#).
 
 - 🔭 I’m currently working on a JavaScript program that allows the user to register the books they own, so that bookworms can catalogue their collection. You can see it here: https://github.com/mapinguari11/minha-biblioteca
-- 🌱 I’m currently learning C#, and I'm about to start a bootcamp about Linux.
+- 🌱 I’m currently learning C#, and I'm about to start a Linux bootcamp.
 - 💬 Ask me about my cats or about poetry!
 - 📫 How to reach me: rochapenoni@gmail.com
 - 😄 Pronouns: he/him or they/them
