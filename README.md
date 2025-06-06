@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm just a human sciences guy who is challenging himself to learn programming.
-I'm a total beginner, taking courses at Alura and DIO. Currently, I'm considering going back to college, to study Information Systems.
+I'm just a human sciences guy who challenged himself to learn programming. I fell in love with it and now I'm back in college, studying Information Systems.
 
 - 🔭 I’m currently working on a "Who Wants to Be A Millionaire"-inspired quiz about my favorite podcast, using JavaScript, HTML and CSS. You can check the project [here](https://github.com/mapinguari11/show-do-guaxa)
 - 🌱 I’m currently learning C#, while also practicing JavaScript.
@@ -26,8 +25,7 @@ I'm a total beginner, taking courses at Alura and DIO. Currently, I'm considerin
 
 ## E aí? 👋
 
-Sou só um cara de humanas me arriscando a aprender programação.
-Completamente iniciante, fazendo os cursos iniciais na Alura e na DIO.
+Sou só um cara de humanas que se desafiou a aprender programação. Eu me apaixonei e agora estou de volta à faculdade, estudando Sistemas de Informação.
 
 - 🔭 Atualmente estou trabalhando em um quiz tipo "Show do Milhão", sobre o meu podcast favorito, o RPGuaxa. Nesse projeto eu uso JavaScript, HTML e CSS. Veja o projeto [aqui](https://github.com/mapinguari11/show-do-guaxa)
 - 🌱 Atualmente estou aprendendo C#, e praticando JavaScript.
